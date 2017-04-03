@@ -1,4 +1,4 @@
-#Team Divide
+# Team Divide
 
 So Coach Andy and I were talking in the truck on our way home from Iowa, wondering about how we could do scouting better. I suggested
 that perhaps instead of assigning particular slots of a match to a student (such as 3rd robot, blue alliance), maybe we could instead ask each student to follow a handful of teams throughout the day.
