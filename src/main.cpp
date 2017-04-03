@@ -109,7 +109,7 @@ int main(int argc, char** argv){
     State state = {connection_matrix, team_student_assignment, teams_per_student,  options, teams.size()};
     bool solved = solve(state);
     std::cout << (solved ? "Solved" : "Unsolved") << std::endl;
-    for(unsigned int i=0; i<options.students; ++i){
+    for(unsigned int i=0; i<options.students+1; ++i){
         if(i>0){
             std::cout << "Student " << i << ":";
         }
